@@ -1,0 +1,448 @@
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.exe.config
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.exe
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\BUS.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\DAO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\EnvDTE.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\stdole.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\BUS.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\DAO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\DTO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Alarm.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Another.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Diary.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Event.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.GanttChart.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Health.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Main.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.MindMap.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Money.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.MoneyReport.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Note.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Pomodoro.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Timer.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.TimeTable.resources
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\RdlCompile.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\RdlCompile.compiled
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.exe
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.pdb
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.exe.config
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.exe
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\GUI.pdb
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\BUS.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\DAO.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\DTO.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\EnvDTE.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\stdole.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\BUS.pdb
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\DAO.pdb
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\DTO.pdb
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Alarm.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Another.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Diary.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Event.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.GanttChart.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Health.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Main.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.MindMap.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Money.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.MoneyReport.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Note.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Pomodoro.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.Timer.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.TimeTable.resources
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\RdlCompile.cache
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\RdlCompile.compiled
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.exe
+E:\Đồ án\Life-Manager-Project\GUI\obj\Debug\GUI.pdb
+E:\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Life-Manager-Project\GUI\bin\Debug\GUI.exe.config
+E:\Life-Manager-Project\GUI\bin\Debug\GUI.exe
+E:\Life-Manager-Project\GUI\bin\Debug\GUI.pdb
+E:\Life-Manager-Project\GUI\bin\Debug\BUS.dll
+E:\Life-Manager-Project\GUI\bin\Debug\DAO.dll
+E:\Life-Manager-Project\GUI\bin\Debug\DTO.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Life-Manager-Project\GUI\bin\Debug\EnvDTE.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Life-Manager-Project\GUI\bin\Debug\stdole.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Life-Manager-Project\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\Life-Manager-Project\GUI\bin\Debug\BUS.pdb
+E:\Life-Manager-Project\GUI\bin\Debug\DAO.pdb
+E:\Life-Manager-Project\GUI\bin\Debug\DTO.pdb
+E:\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Alarm.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Another.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Diary.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Event.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.GanttChart.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Health.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Main.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.MindMap.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Money.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.MoneyReport.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Note.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Pomodoro.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.Timer.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.TimeTable.resources
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Life-Manager-Project\GUI\obj\Debug\RdlCompile.cache
+E:\Life-Manager-Project\GUI\obj\Debug\RdlCompile.compiled
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.exe
+E:\Life-Manager-Project\GUI\obj\Debug\GUI.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.exe.config
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.exe
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\BUS.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DAO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DTO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\EnvDTE.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\stdole.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\BUS.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DAO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DTO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Alarm.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Another.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Diary.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Event.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.GanttChart.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Health.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Main.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.MindMap.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Money.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.MoneyReport.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Note.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Pomodoro.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Timer.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.TimeTable.resources
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.exe
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\RdlCompile.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\RdlCompile.compiled
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.exe.config
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.exe
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\GUI.pdb
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\BUS.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DAO.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DTO.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\EnvDTE.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\stdole.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\Microsoft.MSXML.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\BUS.pdb
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DAO.pdb
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\DTO.pdb
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Alarm.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Another.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Diary.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Event.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.GanttChart.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Health.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Main.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.MindMap.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Money.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.MoneyReport.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Note.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Pomodoro.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.Timer.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.TimeTable.resources
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\RdlCompile.cache
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\RdlCompile.compiled
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.exe
+E:\1. Study\H.Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\GUI\obj\Debug\GUI.pdb

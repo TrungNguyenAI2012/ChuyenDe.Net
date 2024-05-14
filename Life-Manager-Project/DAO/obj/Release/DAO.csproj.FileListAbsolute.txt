@@ -1,0 +1,27 @@
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\bin\Release\DAO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\bin\Release\DAO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\bin\Release\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\bin\Release\DTO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CopyComplete
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.pdb
+E:\Đồ án\Life-Manager-Project\DAO\bin\Release\DAO.dll
+E:\Đồ án\Life-Manager-Project\DAO\bin\Release\DAO.pdb
+E:\Đồ án\Life-Manager-Project\DAO\bin\Release\DTO.dll
+E:\Đồ án\Life-Manager-Project\DAO\bin\Release\DTO.pdb
+E:\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+E:\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+E:\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CopyComplete
+E:\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.dll
+E:\Đồ án\Life-Manager-Project\DAO\obj\Release\DAO.pdb
+E:\Life-Manager-Project\DAO\bin\Release\DAO.dll
+E:\Life-Manager-Project\DAO\bin\Release\DAO.pdb
+E:\Life-Manager-Project\DAO\bin\Release\DTO.dll
+E:\Life-Manager-Project\DAO\bin\Release\DTO.pdb
+E:\Life-Manager-Project\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+E:\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+E:\Life-Manager-Project\DAO\obj\Release\DAO.csproj.CopyComplete
+E:\Life-Manager-Project\DAO\obj\Release\DAO.dll
+E:\Life-Manager-Project\DAO\obj\Release\DAO.pdb

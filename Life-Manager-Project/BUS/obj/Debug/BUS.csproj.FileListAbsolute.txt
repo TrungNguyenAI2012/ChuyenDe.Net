@@ -1,0 +1,44 @@
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\BUS.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\BUS.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\DAO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\DAO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\bin\Debug\DTO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.pdb
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\BUS.dll
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\BUS.pdb
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\DAO.dll
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\DTO.dll
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\DAO.pdb
+E:\Đồ án\Life-Manager-Project\BUS\bin\Debug\DTO.pdb
+E:\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.dll
+E:\Đồ án\Life-Manager-Project\BUS\obj\Debug\BUS.pdb
+E:\Life-Manager-Project\BUS\bin\Debug\BUS.dll
+E:\Life-Manager-Project\BUS\bin\Debug\BUS.pdb
+E:\Life-Manager-Project\BUS\bin\Debug\DAO.dll
+E:\Life-Manager-Project\BUS\bin\Debug\DTO.dll
+E:\Life-Manager-Project\BUS\bin\Debug\DAO.pdb
+E:\Life-Manager-Project\BUS\bin\Debug\DTO.pdb
+E:\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Life-Manager-Project\BUS\obj\Debug\BUS.dll
+E:\Life-Manager-Project\BUS\obj\Debug\BUS.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\BUS.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\BUS.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\DAO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\DTO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\DAO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\bin\Debug\DTO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\obj\Debug\BUS.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\BUS\obj\Debug\BUS.pdb

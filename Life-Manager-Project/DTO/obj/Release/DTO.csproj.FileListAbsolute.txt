@@ -1,0 +1,15 @@
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\bin\Release\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\bin\Release\DTO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.pdb
+E:\Đồ án\Life-Manager-Project\DTO\bin\Release\DTO.dll
+E:\Đồ án\Life-Manager-Project\DTO\bin\Release\DTO.pdb
+E:\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.dll
+E:\Đồ án\Life-Manager-Project\DTO\obj\Release\DTO.pdb
+E:\Life-Manager-Project\DTO\bin\Release\DTO.dll
+E:\Life-Manager-Project\DTO\bin\Release\DTO.pdb
+E:\Life-Manager-Project\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\Life-Manager-Project\DTO\obj\Release\DTO.dll
+E:\Life-Manager-Project\DTO\obj\Release\DTO.pdb

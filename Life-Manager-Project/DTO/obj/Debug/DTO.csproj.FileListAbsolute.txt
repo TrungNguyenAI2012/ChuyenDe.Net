@@ -1,0 +1,22 @@
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\bin\Debug\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\bin\Debug\DTO.pdb
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.dll
+E:\Study\HK6_Chuyên đề .Net\Đồ án .Net\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.pdb
+E:\Đồ án\Life-Manager-Project\DTO\bin\Debug\DTO.dll
+E:\Đồ án\Life-Manager-Project\DTO\bin\Debug\DTO.pdb
+E:\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.dll
+E:\Đồ án\Life-Manager-Project\DTO\obj\Debug\DTO.pdb
+E:\Life-Manager-Project\DTO\bin\Debug\DTO.dll
+E:\Life-Manager-Project\DTO\bin\Debug\DTO.pdb
+E:\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Life-Manager-Project\DTO\obj\Debug\DTO.dll
+E:\Life-Manager-Project\DTO\obj\Debug\DTO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\bin\Debug\DTO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\bin\Debug\DTO.pdb
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\obj\Debug\DTO.dll
+E:\1. Study\School\Cử nhân\HK6_Chuyên đề .Net\Life-Manager-Project\DTO\obj\Debug\DTO.pdb
